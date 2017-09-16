@@ -1,1 +1,0 @@
-This is a demo for the AlexaBridge workshop in Pittsburgh, September 2017
